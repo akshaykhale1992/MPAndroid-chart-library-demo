@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MPAndroidChart Library Demo</string>
+    <string name="text_view_text">Click Options Button to Select Chart Options</string>
+
+    <!-- Animation Duration for Chart -->
+    <string name="animation_duration">1000</string>
+    <!-- Animation Duration for Chart -->
+</resources>
